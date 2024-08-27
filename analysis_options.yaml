@@ -1,4 +1,4 @@
-import: ../../analysis_options.yaml
+# import: ../../analysis_options.yaml
 analyzer:
   # enable riverpod_lint
   plugins:
