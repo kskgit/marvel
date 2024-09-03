@@ -1,0 +1,1 @@
+ /Users/ksk/develop/riverpod/examples/marvel/.dart_tool/flutter_build/6aa430bdabee541ca27f7f22ef5f4051/native_assets.yaml: 
