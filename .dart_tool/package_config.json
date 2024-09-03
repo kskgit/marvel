@@ -9,7 +9,7 @@
     },
     {
       "name": "_macros",
-      "rootUri": "file:///Users/ksk/fvm/versions/stable/bin/cache/dart-sdk/pkg/_macros",
+      "rootUri": "file:///Users/ksk/fvm/versions/3.24.1/bin/cache/dart-sdk/pkg/_macros",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -207,7 +207,7 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/ksk/fvm/versions/stable/packages/flutter",
+      "rootUri": "file:///Users/ksk/fvm/versions/3.24.1/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -225,7 +225,7 @@
     },
     {
       "name": "flutter_riverpod",
-      "rootUri": "../../../packages/flutter_riverpod",
+      "rootUri": "file:///Users/ksk/.pub-cache/hosted/pub.dev/flutter_riverpod-2.5.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -237,7 +237,7 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/ksk/fvm/versions/stable/packages/flutter_test",
+      "rootUri": "file:///Users/ksk/fvm/versions/3.24.1/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -273,7 +273,7 @@
     },
     {
       "name": "hooks_riverpod",
-      "rootUri": "../../../packages/hooks_riverpod",
+      "rootUri": "file:///Users/ksk/.pub-cache/hosted/pub.dev/hooks_riverpod-2.5.2",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -429,31 +429,31 @@
     },
     {
       "name": "riverpod",
-      "rootUri": "../../../packages/riverpod",
+      "rootUri": "file:///Users/ksk/.pub-cache/hosted/pub.dev/riverpod-2.5.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "riverpod_analyzer_utils",
-      "rootUri": "../../../packages/riverpod_analyzer_utils",
+      "rootUri": "file:///Users/ksk/.pub-cache/hosted/pub.dev/riverpod_analyzer_utils-0.5.4",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "riverpod_annotation",
-      "rootUri": "../../../packages/riverpod_annotation",
+      "rootUri": "file:///Users/ksk/.pub-cache/hosted/pub.dev/riverpod_annotation-2.3.5",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "riverpod_generator",
-      "rootUri": "../../../packages/riverpod_generator",
+      "rootUri": "file:///Users/ksk/.pub-cache/hosted/pub.dev/riverpod_generator-2.4.3",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "riverpod_lint",
-      "rootUri": "../../../packages/riverpod_lint",
+      "rootUri": "file:///Users/ksk/.pub-cache/hosted/pub.dev/riverpod_lint-2.3.13",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -477,7 +477,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/ksk/fvm/versions/stable/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/ksk/fvm/versions/3.24.1/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -620,10 +620,10 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-08-27T21:37:15.263199Z",
+  "generated": "2024-08-27T21:47:32.926318Z",
   "generator": "pub",
   "generatorVersion": "3.5.1",
-  "flutterRoot": "file:///Users/ksk/fvm/versions/stable",
+  "flutterRoot": "file:///Users/ksk/fvm/versions/3.24.1",
   "flutterVersion": "3.24.1",
   "pubCache": "file:///Users/ksk/.pub-cache"
 }
